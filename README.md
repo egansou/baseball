@@ -1,2 +1,2 @@
 # Data-Science
-Repository for data science projects 
+Repository for the major league project
